@@ -18,6 +18,7 @@
     <button type='button' onclick='GuardarTrazado()'>Guardar</button>
     <input type='hidden' name='imagen' id='imagen' />
 </form>
+<!-- creamos el camvas -->
 <script src="js/app.js"></script>
 </body>
 </html>
